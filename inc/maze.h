@@ -8,7 +8,7 @@
 
 constexpr int64_t EMPTY = 0;
 constexpr int64_t MAX_TRAPS = 5;
-constexpr int64_t MIN_MAZE_AREA_TO_GENERATE_TREASURE = 15;
+constexpr int64_t MIN_MAZE_AREA_TO_GENERATE_TREASURE = 20;
 constexpr int64_t MIN_MAZE_AREA_TO_GENERATE_TRAPS = 20;
 
 struct Cell {

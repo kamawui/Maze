@@ -24,7 +24,7 @@ Traps and Treasure locactions are chosen with **Lee's algorithm.**
 
 Additional rules:
 
-- Treasure and traps are generated when square area (length * width) of a maze is bigger than 15 and 20 respectively.
+- Treasure and traps are generated when square area (length * width) of a maze is bigger than 20.
 - Treasure is always placed at the most distant cell from entrance.
 - There are no traps on the ways to entrance or treasure.
 

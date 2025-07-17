@@ -25,6 +25,7 @@ int main() {
 		int64_t l = get_integer();
 		std::cout << "Enter maze width: ";
 		int64_t w = get_integer();
+		std::cout << std::endl;
 
 		Maze maze(l, w);
 		maze.generate_maze();
